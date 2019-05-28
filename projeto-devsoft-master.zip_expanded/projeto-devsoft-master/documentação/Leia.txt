@@ -1,0 +1,1 @@
+Neste diretório você vai colocar toda a documentação pedida na disciplina (Diagramas, mapa de endpoints, etc...).

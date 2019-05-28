@@ -31,6 +31,18 @@
 		<item value="org.jboss.tools.maven.apt.feature:1.5.2.201812241535"/>
 		<item value="org.sonatype.m2e.buildhelper.feature:0.15.0.201207090124"/>
 		<item value="org.sonatype.m2e.egit.feature:0.15.1.201806191431"/>
-		<item value="org.sonatype.m2e.mavenarchiver.feature:0.17.2.201606141937-signed-20160830073346"/>
+		<item value="org.sonatype.m2e.mavenarchiver.feature:0.17.3.201905220530"/>
 	</list>
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Lucas\Downloads\projeto-devsoft-master.zip"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="262"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="464"/>
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
 </section>
